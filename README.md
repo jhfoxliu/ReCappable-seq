@@ -8,7 +8,7 @@ The ReCappable-seq analysis pipeline includes (1) the mapping of ReCappable-seq 
 
 The (2) step will end up with a CSV file containing the annotations of the TSS found by the mapping pipeline. You can merge the coverage from (1) by the table.
 
-(please unzip `hg38_repeats.nochr.sorted.bed.gz`, `chr1.fa.gz`, and `chr1.gtf.gz first` in the ANNOTATIONS folder first)
+(please unzip `hg38_repeats.nochr.sorted.bed.gz`, `chr1.fa.gz`, and `chr1.gtf.gz` first in the `ANNOTATIONS` folder first)
 
 
 
